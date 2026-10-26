@@ -4,6 +4,16 @@ Windows 便携桌面动画程序。一个控制面板可以分别生成 **校准
 
 ![控制面板](界面预览-三合一新版.png)
 
+## 效果展示
+
+桌面效果：
+
+![桌面蟑螂效果](docs/screenshots/desktop-preview.png)
+
+动态演示：
+
+![桌面蟑螂动态演示](docs/screenshots/desktop-animation.gif)
+
 ## 运行
 
 下载根目录的 [桌面蟑螂-三合一.exe](桌面蟑螂-三合一.exe)，双击即可运行，无需安装。运行前先退出已打开的旧版。
