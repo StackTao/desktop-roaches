@@ -1,0 +1,19 @@
+# Generated tests and disposable previews
+/tests/*.exe
+/tests/*.pdb
+/tests/*.png
+/tests/animation/
+/tests/portable-check/
+/tests/integrated-standalone/
+
+# Downloaded research photograph (not part of the application)
+/docs/reference/uf-american-cockroach.jpg
+
+# Local tooling and temporary files
+.vs/
+.vscode/
+__pycache__/
+*.tmp
+*.log
+Thumbs.db
+.DS_Store

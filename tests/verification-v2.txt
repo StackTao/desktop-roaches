@@ -1,0 +1,54 @@
+Built: C:\Users\admin\Downloads\38电量图片\桌面蟑螂\桌面蟑螂.exe
+PASS: 4800134 assertions; 100 insects x 12,000 frames.
+Maximum per-frame turn: 2.86 degrees
+Maximum per-frame speed change: 7.03 px/s
+PASS: Bounded angular speed and acceleration.
+PASS: Body texture stays pixel-registered across gait phases
+PASS: Left legs visibly articulate
+PASS: Right legs visibly articulate
+PASS: Antennae use their own clock
+PASS: Antennae keep moving at zero walking speed
+PASS: Resting feet remain planted
+PASS: 240 production-renderer preview frames written.
+PASS: Two button clicks appended exactly 5 + 3 insects
+PASS: Spawning overlays did not steal foreground focus
+PASS: Layered, topmost, click-through, tool-window, no-activation flags
+PASS: Actual native window fully inside screen working area
+PASS: Window hit test passes through to underlying application
+PASS: Layered, topmost, click-through, tool-window, no-activation flags
+PASS: Actual native window fully inside screen working area
+PASS: Window hit test passes through to underlying application
+PASS: Layered, topmost, click-through, tool-window, no-activation flags
+PASS: Actual native window fully inside screen working area
+PASS: Window hit test passes through to underlying application
+PASS: Layered, topmost, click-through, tool-window, no-activation flags
+PASS: Actual native window fully inside screen working area
+PASS: Window hit test passes through to underlying application
+PASS: Layered, topmost, click-through, tool-window, no-activation flags
+PASS: Actual native window fully inside screen working area
+PASS: Window hit test passes through to underlying application
+PASS: Layered, topmost, click-through, tool-window, no-activation flags
+PASS: Actual native window fully inside screen working area
+PASS: Window hit test passes through to underlying application
+PASS: Layered, topmost, click-through, tool-window, no-activation flags
+PASS: Actual native window fully inside screen working area
+PASS: Window hit test passes through to underlying application
+PASS: Layered, topmost, click-through, tool-window, no-activation flags
+PASS: Actual native window fully inside screen working area
+PASS: Window hit test passes through to underlying application
+HOTKEY: clear registration error=1409; exit registration error=1409
+PASS: Pause freezes movement and gait across real timer frames
+PASS: Resume button restores movement
+PASS: Clear button removes model and native windows
+PASS: Repeated generation/clear releases GDI resources (before=45, after=45)
+PASS: 100 real transparent windows created
+PASS: Population limit rejects extra batch
+METRIC: 100 insects; elapsed=2.53s; CPU=2.48s; memory=70 MiB
+METRIC: 100-insect frame rate=25.2 fps
+PASS: Global clear hotkey handler clears everything
+METRIC: default 5-insect frame rate=40.0 fps
+PASS: Overlay destroyed after exit
+PASS: Overlay destroyed after exit
+PASS: Overlay destroyed after exit
+PASS: Overlay destroyed after exit
+PASS: Overlay destroyed after exit

@@ -1,0 +1,36 @@
+Built: C:\Users\admin\Downloads\38电量图片\桌面蟑螂\桌面蟑螂-三合一.exe
+PASS: Exact user suffix names
+PASS: Selected type appends the requested batch: 校准版
+PASS: Original click-through / topmost / nonactivating overlay retained
+PASS: Mixed-type overlay inside working area
+PASS: Original click-through / topmost / nonactivating overlay retained
+PASS: Mixed-type overlay inside working area
+PASS: Selected type appends the requested batch: 质感版
+PASS: Original click-through / topmost / nonactivating overlay retained
+PASS: Mixed-type overlay inside working area
+PASS: Original click-through / topmost / nonactivating overlay retained
+PASS: Mixed-type overlay inside working area
+PASS: Original click-through / topmost / nonactivating overlay retained
+PASS: Mixed-type overlay inside working area
+PASS: Selected type appends the requested batch: fxq版
+PASS: Original click-through / topmost / nonactivating overlay retained
+PASS: Mixed-type overlay inside working area
+PASS: Original click-through / topmost / nonactivating overlay retained
+PASS: Mixed-type overlay inside working area
+PASS: Original click-through / topmost / nonactivating overlay retained
+PASS: Mixed-type overlay inside working area
+PASS: Original click-through / topmost / nonactivating overlay retained
+PASS: Mixed-type overlay inside working area
+PASS: Generating mixed types does not steal focus
+PASS: Three types coexist (2 + 3 + 4)
+PASS: Exactly one control panel plus nine overlays; no old control panels
+PASS: Each type uses its own original embedded renderer assembly
+PASS: Global pause freezes every type across real timer frames
+PASS: Resume advances mixed populations
+PASS: Shared 100-insect limit rejects an entire overflowing batch
+PASS: Generation during pause appends only the selected type
+PASS: New and existing insects remain paused together
+PASS: Clear removes all three populations
+PASS: Repeated mixed-type generation/clear releases GDI resources: 44 -> 44
+PASS: Combined capacity supports 33 + 33 + 34 mixed insects
+PASS: All 100 overlays destroyed after the only panel closes

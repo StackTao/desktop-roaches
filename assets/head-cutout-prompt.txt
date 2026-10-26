@@ -1,0 +1,6 @@
+Tool: built-in image_gen; transparent_background=true.
+Source: C:/Users/admin/AppData/Local/Temp/codex-clipboard-420f2eec-8c67-4ad0-b8a9-7459228cbd6f.jpg
+Output: assets/face-head.png. Integrated separately by the renderer with alpha preserved.
+
+Use case: background-extraction.
+Edit target: the supplied photograph. Make a faithful transparent cutout of ONLY the person's complete head, from the rounded top of the scalp through the ears and face to the bottom of the chin. Remove the ENTIRE background, all clothing, collar, shoulders, torso and neck below the chin. Preserve the exact identity, facial proportions, pursed-lips expression, gaze, skin tone, ears and shaved scalp from this photo. Do not invent a different face, beautify, caricature, change expression, or redraw as illustration. Keep the photographic low-resolution source character, with clean natural alpha edges. Center the upright face with a small transparent margin around it; do not cut off the top of the scalp or chin. No text, no shadow, no frame, no circular badge, no added objects, no insect parts. Output genuinely transparent RGBA outside the head. This head will be separately composited onto an animated character by application code.
